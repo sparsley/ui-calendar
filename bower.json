@@ -18,7 +18,7 @@
   "dependencies": {
     "angular": "1.2.26",
     "jquery": "2.x",
-    "fullcalendar": "2.1.1",
+    "fullcalendar": "latest",
     "moment": "2.*"
   },
   "devDependencies": {
